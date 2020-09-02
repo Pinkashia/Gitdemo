@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-15T14:08:32 IST" name="Suite" finished-at="2020-08-15T14:08:32 IST" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2020-08-15T14:08:32 IST" name="Test" finished-at="2020-08-15T14:08:32 IST" duration-ms="26">
+      <class name="qaclickacademy.RestAssuresTest">
+        <test-method signature="API_Automation()[pri:0, instance:qaclickacademy.RestAssuresTest@7d68ef40]" started-at="2020-08-15T14:08:32 IST" name="API_Automation" finished-at="2020-08-15T14:08:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API_Automation -->
+      </class> <!-- qaclickacademy.RestAssuresTest -->
+      <class name="qaclickacademy.SeliniumTest">
+        <test-method signature="User_SignIn()[pri:0, instance:qaclickacademy.SeliniumTest@123f1134]" started-at="2020-08-15T14:08:32 IST" name="User_SignIn" finished-at="2020-08-15T14:08:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_SignIn -->
+      </class> <!-- qaclickacademy.SeliniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
